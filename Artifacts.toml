@@ -1,0 +1,459 @@
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "292c87941f9ed17abff9438111f04ee0667bd5d3"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[lovoalign.download]]
+    sha256 = "87a6bdc4a6183257730578c011012170f63d5c8b8ff0f78408cca720c325f1d5"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "84036d45fe703826efa7d6db11554b2aa8483e83"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "1d38a64cbda2a86baff9caab0806cda3c843285effe1e0ca360d2ff38af5122b"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "681934f63a8cdc3574f55894466cd51a476bd061"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "85a991578c8cade391db312503159604a43724ca855f95ca2e7913157c9e182b"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "2338d23fb4f9c61c85793bf3d37b5912f8d4a563"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "f0aec653bc7ef16588c01ebaddc1f061afb30f2846d98ef07e94b07279a822f8"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "62aa83a8deec33c5529849ee294ecdfc2b751456"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "7e2cfb2f94a820de0d25415eace621d3dbb2fc3344045c1b0cca0c6f6fa14a0a"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-linux-musl-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "4298735c616351562141e471c42589891b13b2c5"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "5d87f3775992fa311ba7fdc129e3a7d742dc7e8f2753526a40b381a4986316d9"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-linux-musl-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "aarch64"
+git-tree-sha1 = "e1583a5ff1e05a0353a3417dc37743dc26bad93b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "4b4dd256fa1e1c276e6799ebac7e52c244cc682bcd65d2b0b23471c4fd57cf6c"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.aarch64-linux-musl-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "059f1967d1d7a77c3df513cd07c199247ac6b9c7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "fc2348968b6caf8d5ea6d590b5ac08ed61aff79476bfd6c8f5df3b6e563948e6"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f10d8d2d2083438ba92328fb1840688f33bc4f86"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "a1d6129adb0a89607e7338d8ff3de532b4872ac796ed43f1148293eac7aedf16"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "68e0c1898353ba473057223b9bbf68028857623c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "5a4356e9f9343fe284d117a0672679277a55772608390c656c5680b4403565b0"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ab2875d52f06b767f067e034bb3da273b57ea3cf"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "140bd4b71c1a5deeaf8f281645beb11fe7979325a744f75ceb2e027f82c39afb"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3a88ee33e19244bf58ee49dbd53285445e760275"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "6d32e0d8bf40a5541106b5c34d20c2c4b117e49a1591d91242b61beb6268c336"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d2105e3460b2d9e9118569d2d1547432026df516"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "667e38b0a9537d4d378f945090a742aba8982fc0b9f409fa5ba9840da3786dbb"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd368f737004902338c41a669a340d396310f03d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "c6d330e90d7ef5465aa6b8d79b14dd6fd2d692ec94aa1e27dfc81cfb7a8ba3b2"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e958d83da0ddb363b700d64440a150eae0d17d2d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "e80e80631290f675a9a65e459cc90747282b85a092322c6a6a03720d3dccddc5"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a1426a3b26511b282fc9f3ea9e7e999fddd8c20c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "6779bd3b7d313bc58dd2c23aa3c9d4286035b7cfdbd09582b2d447fa96cfa7bd"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d93f6b73366f3899e61aaac361ad37b0c8822116"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "8e4f2015b531d36eab046f055fa91cfedb027bef1498aae2fffd44c1988a8dce"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a0a0b61dea54e1370829ce176bf793584d4ff38c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "b4baffabd10aba44b3dca73608a5b3f1f7186d567e67fe205cdfdda1e991b0db"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "75358b28641e489d44f9952ebfd30e689d36b6a8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "fa890e16128ab67335202aa9ee9cf345167326fd021bb1dc7be5b73ab692eb69"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "eb84d330356b1575c15d2abd541e7b647332d8b3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "643894e0bee72070c81cda0da5ec75e6faa5f5364d9bbc05f13ec6d4b11362c5"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-linux-gnu-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "19885407d762aef00cfc0cd0c5d78cc69bd2f213"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "4b5305ac6e57c0617d818310657fcaff55f0a4f20947d9ed574a929664f6cac2"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "0717fdf286029024d36a76e07f68cf825482153c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "f08a65dc6d62cb5942e9c14be399ed3955702c2a59ecc93b6a2a7d8989d2bcfe"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "8b26e6886b9661986b5b06014be809511cd3c230"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "a5eb77c08efbdccadbf5d2d15c8be33fa8dc52a93a11d120f99b5f5333206ab5"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-linux-musl-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "a21c0417c00eb308594d28a033cfed53ffefea75"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "46e99027b73d0042a53c8db02a389eebb5e1c731019a3fd46cbb71945aed5a4c"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-linux-musl-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "6355b2563c7b06e888994d9f66dfae16ad513514"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "ed1aab468c5b5947e5ae40568615ab3319b0b3331aacd1783bb01c09b0e06abd"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-linux-musl-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "74327fb93dbe4dc4ed4770abf331797502cbacba"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[lovoalign.download]]
+    sha256 = "94265e28f272c8b965221ab6883d776f049c574fe0b0f9916b1357573bebf806"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-w64-mingw32-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "36e1647b11fff3fc6be2bb36f70d35177257e014"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[lovoalign.download]]
+    sha256 = "84b96fdaba04681bef19de50e8441597b45bde4134abc97db320a331f9b20083"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-w64-mingw32-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "i686"
+git-tree-sha1 = "965b5f1433f12181d1ea2cce0bf98a37b8bdc855"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[lovoalign.download]]
+    sha256 = "5c2ee71d86462af8ac8996739e0519f9e81371e8af026b2697259a3b3418776b"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.i686-w64-mingw32-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "powerpc64le"
+git-tree-sha1 = "d0ff51da104570a8fb4b481310f4e6b39df6a9d5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "747eb003381f2d622ddd8ee755e90a1d5f9b92f34ddf11c0900a0ef1633ed215"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "powerpc64le"
+git-tree-sha1 = "93447065e0fef5da837b1e5a93fe63f625b3f5ac"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "2f240728c6331a1f187d704c13df22ee51543108090fad731852d67bd626426c"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "powerpc64le"
+git-tree-sha1 = "ef444b5dd00ffe1ac3e645cd5905c952e230175c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "cadddb1972a62d409b10afb99eb4e65e4a2765d9a1121411e8020f3ed09c0fcb"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "ba310f3d4699c7b4d22abcb686e41ef5e3651c3e"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[lovoalign.download]]
+    sha256 = "780b1b259901c51d809777d3a2b41d831805385c327019a20033967daff52150"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "51f3a35afdfd46c3e5dd5d37b2d712e32a4aa830"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[lovoalign.download]]
+    sha256 = "45ec05ffb73a8cf78c335f10fe8fb7ee7a6f0ce1b67325946e3150e3dae2b7e6"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "60f6f73774be594898a7447f4c6c686d25b851e1"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[lovoalign.download]]
+    sha256 = "13791c3577c619b81ad86e61d5d47f09956e2c3450725de374ce61552cfb12a5"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "7acf017f97c4f9a08504b53f19f8d10322f7dc21"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "3198b28876a9fff72a26412064e0009cd2862cd46b3b1ec05bfae375a7be9873"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "61be66f152666684bfd01c5282bdf7cfc1270057"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "353b80f271c972661d23b3e91b9866ed4ef3234f8964c5587c6a5409fa2f7030"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "792ddc76a234fdaa24238d3b50e1a31b5d86b18b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "9460cf3c01bbff37aeed4488d3fca0cac97e0c3ebbc21a8bb911978bbccda873"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "478d72c0a8774c1520ef1c9d9f5003b7df624f1f"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "9805dc6597bd4304787f1f1ff18416c5d3c5e6292d514b3d415717ba3f7ee81e"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-linux-musl-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "32987d2d8d933dbc69b6830a273757e5443e46d4"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "b847c041015995ebbf98ca46d3e3fa709171a8d9f8767560b4fb22adfa2a1f66"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-linux-musl-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "f091e323cb25a9041812c582443bb853c502d5a1"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[lovoalign.download]]
+    sha256 = "0c0a174e0cf9c45046cea60327b248be91dd55312abf002348b1a3de0f3223fb"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-linux-musl-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "7ba1320712a6ae38763e0a05f120ab4ea00cdc0f"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[lovoalign.download]]
+    sha256 = "64d777c4d41c628c441c6fccba21ded6660c0c31eaede8dd3a58bc695d1ce5a1"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "f7dd62ef28d7889b87edba5e97b5eeb67258c7b1"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[lovoalign.download]]
+    sha256 = "90a213cdb4dc0f9d758f7ff3e4b57f4b3072426478965a42123e5b368e613358"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "dfbd3aa07892c6ebed7b872d07331eacde1bd338"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[lovoalign.download]]
+    sha256 = "a798967363957df86519db31e724b98ce7ede406a6e585a0e4cd0f87a862b81e"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "42744441650f5082c6d9dc00eb3a903f586a5210"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[lovoalign.download]]
+    sha256 = "373d78a5b223249ae33648ee663e095c2a440ce0b7f907e80ac8059997a4d72a"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "b7877559ed03cb0cbbec96de2fd0cfe080cac575"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[lovoalign.download]]
+    sha256 = "4437c9d0b6c9101196b2a244f3f7f8974303e63e08620de8c154b8f52d090542"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[lovoalign]]
+arch = "x86_64"
+git-tree-sha1 = "ff8193c772076bad1532e157b75b2afb9cf6e7b6"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[lovoalign.download]]
+    sha256 = "0d40515ee8c3745d29d671322665af6c9295e3ccbe9672fce6ee188bc4bfe3f2"
+    url = "https://github.com/JuliaBinaryWrappers/lovoalign_jll.jl/releases/download/lovoalign-v20.0.2+0/lovoalign.v20.0.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
